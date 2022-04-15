@@ -24,9 +24,13 @@ img{
     color:cornflowerblue;
 }
 #k{
-    width: 30%;
+    width: 10%;
     border-radius: 900px;
 }
 #j{
     color: blue;
+}
+#n{
+    margin-bottom: 100px;
+    padding-bottom: 100px;
 }
